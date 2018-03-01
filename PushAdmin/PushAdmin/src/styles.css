@@ -1,0 +1,33 @@
+.customnav {
+  position: fixed; /* Set the navbar to fixed position */
+  padding: 1.5em;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+/* html, body {
+    height: 100%;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+} */
+
+#app, #app>div {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  margin-top: 7em; /* Add a bottom margin to avoid content overlay */
+  margin-bottom: 7em;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.item {
+  flex: 1;
+  max-width: 50%;
+}
