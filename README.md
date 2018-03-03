@@ -3,7 +3,7 @@
 * **Google Play**: https://play.google.com/store/apps/details?id=com.thepushprogram&hl=en
 * **Itunes**: https://itunes.apple.com/us/app/the-push-program/id1332530157?mt=8
 
-![Alt text](/dashboard.png)?raw=true "Dashboard")
+![Alt text](/dashboard.png ?raw=true "Dashboard")
 
 ## Summary:
 The Push Program is a meditation/breathing/posture application.
